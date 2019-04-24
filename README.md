@@ -71,8 +71,8 @@ How to Use
 >> ln -s ${SOMEWHERE}/data/kitti_stereo data/kitti_stereo
 >> mkdir exp
 ```
-* Training procedure:
-```
+* Training procedure (detailed configuration is specified in [here](misc/options.py)):
+```()
 >> vim misc/options.py # edit training configuration; see comments for more detailed explanation
 >> python train.py
 ```
