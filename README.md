@@ -98,12 +98,10 @@ Results
 Citation 
 --- 
 ``` 
-@misc{wang20193d,
-    title={3D LiDAR and Stereo Fusion using Stereo Matching Network with Conditional Cost Volume Normalization},
-    author={Tsun-Hsuan Wang and Hou-Ning Hu and Chieh Hubert Lin and Yi-Hsuan Tsai and Wei-Chen Chiu and Min Sun},
-    year={2019},
-    eprint={1904.02917},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{wang20193d,
+  title={3D LiDAR and Stereo Fusion using Stereo Matching Network with Conditional Cost Volume Normalization},
+  author={Wang, Tsun-Hsuan and Hu, Hou-Ning and Lin, Chieh Hubert and Tsai, Yi-Hsuan and Chiu, Wei-Chen and Sun, Min},
+  journal={arXiv preprint arXiv:1904.02917},
+  year={2019}
 }
 ```
