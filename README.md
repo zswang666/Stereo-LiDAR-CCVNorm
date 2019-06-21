@@ -1,7 +1,7 @@
 # Stereo-LiDAR-CCVNorm 
 [project page](https://zswang666.github.io/Stereo-LiDAR-CCVNorm-Project-Page/) | [paper](https://arxiv.org/abs/1904.02917) | [video](https://drive.google.com/file/d/1ry33BlTPStYylScPHTvDa3t1IL5PdjJI/preview)
 
-This is an implementation for our paper "3D LiDAR and Stereo Fusion using Stereo Matching Network with Conditional Cost Volume Normalization".
+This is an implementation for our paper "3D LiDAR and Stereo Fusion using Stereo Matching Network with Conditional Cost Volume Normalization", IROS 2019.
 
 <p align="left"><img src="index/teaser.gif" width="400"></p>
 
